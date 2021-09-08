@@ -7,6 +7,8 @@
 6) Make changes to your files
 7) see if the file change is detected with git status.
 8) stage the changes with git add .
+9) check that the add did what you expected with git status.
+
 
 
 
