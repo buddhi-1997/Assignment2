@@ -6,6 +6,7 @@
 5) Create another branch .
 6) Make changes to your files
 7) see if the file change is detected with git status.
+8) stage the changes with git add .
 
 
 
