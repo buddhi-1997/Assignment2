@@ -12,6 +12,7 @@
 11)  Write a meaningful commit message (e.g. "Answers question 1")
 12)  check that your working directory is clean with git status
 13)  check that your commit succeeded as expected with git log
+14)   Push your code up to a github repository
 
 
 
