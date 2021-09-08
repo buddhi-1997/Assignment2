@@ -9,6 +9,7 @@
 8) stage the changes with git add .
 9) check that the add did what you expected with git status.
 10)  make the commit with git commit.
+11)  Write a meaningful commit message (e.g. "Answers question 1")
 
 
 
