@@ -10,6 +10,7 @@
 9) check that the add did what you expected with git status.
 10)  make the commit with git commit.
 11)  Write a meaningful commit message (e.g. "Answers question 1")
+12)  check that your working directory is clean with git status
 
 
 
